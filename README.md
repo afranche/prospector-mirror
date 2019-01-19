@@ -1,7 +1,9 @@
-prospector mirror
+Prospector (Boosted fork ed.) mirror
 =============
 
 Mirror of prospector package for pre-commit.
+
+Boosted with mypy and vulture for personal projects.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
